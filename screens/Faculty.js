@@ -25,7 +25,7 @@ const faculties = [
       {
         name: 'Diploma in Creative Advertising',
         image: 'https://images.unsplash.com/photo-1561070791-2526d30994b5?w=600&q=80',
-        videoUrl: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+        videoUrl: 'https://www.youtube.com/watch?v=lre2EBVBU2M',
         description: 'Learn to craft compelling brand messages across digital and print media. Combine psychology, visual design, and strategy to create impactful advertising campaigns.',
         requirements: [
           'Minimum 3 C grades and 2 D passes',
@@ -39,7 +39,7 @@ const faculties = [
       {
         name: 'Diploma in Graphic Design',
         image: 'https://images.unsplash.com/photo-1626785774573-4b799315345d?w=600&q=80',
-        videoUrl: 'https://www.youtube.com/watch?v=ysz5S6PUM-U',
+        videoUrl: 'https://www.youtube.com/watch?v=WONZVnlam6U',
         description: 'Master visual communication through typography, branding, illustration and digital design tools. Build a strong portfolio ready for the creative industry.',
         requirements: [
           'Minimum 3 C grades and 2 D passes',
@@ -53,7 +53,7 @@ const faculties = [
       {
         name: 'Diploma in Fashion and Apparel Design',
         image: 'https://img.freepik.com/premium-photo/fashion-design-hd-image-textile-design-hd-image-fashion-designer-hd-image_1012565-18344.jpg?w=2000',
-        videoUrl: 'https://www.youtube.com/watch?v=5eMsGAcBsHo',
+        videoUrl: 'https://www.youtube.com/shorts/ijXeBlrnYe4',
         description: 'Explore garment construction, fabric science, trend forecasting and fashion illustration. Graduate ready for careers in fashion design, styling and retail.',
         requirements: [
           'Minimum 3 C grades and 2 D passes',
@@ -161,7 +161,7 @@ const faculties = [
       {
         name: 'Diploma in Architectural Technology',
         image: 'https://images.unsplash.com/photo-1503387762-592deb58ef4e?w=600&q=80',
-        videoUrl: 'https://www.youtube.com/watch?v=YFMnEQUtkGU',
+        videoUrl: 'https://www.youtube.com/watch?v=aShwQxvKn78',
         description: 'Study building design, construction technology, technical drawing and 3D modelling. Develop skills to support architects in designing safe and beautiful structures.',
         requirements: [
           'Minimum 3 C grades and 2 D passes',
@@ -177,10 +177,10 @@ const faculties = [
   },
   {
     id: '4',
-    name: 'Faculty of Business & Globalization',
+    name: 'Faculty of Business Management & Globalization',
     icon: '💼',
     image: 'https://images.unsplash.com/photo-1542744173-8e7e53415bb0?w=600&q=80',
-    videoUrl: 'https://www.youtube.com/watch?v=0K-r0RMnWjM',
+    videoUrl: 'https://www.youtube.com/watch?v=KI3zMFQpiTE',
     description:
       'Build the strategic, entrepreneurial and leadership skills needed to thrive in a globalized economy. Our business programmes combine theory with real-world application.',
     courses: [
@@ -263,7 +263,7 @@ const faculties = [
     name: 'Faculty of Creativity in Tourism & Hospitality',
     icon: '✈️',
     image: 'https://images.unsplash.com/photo-1566073771259-6a8506099945?w=600&q=80',
-    videoUrl: 'https://www.youtube.com/watch?v=h5N_pVvSJ_I',
+    videoUrl: 'https://www.youtube.com/watch?v=-oODVdCibMc',
     description:
       "Create unforgettable experiences in travel, tourism and hospitality. Our programmes develop creative professionals ready to lead in Lesotho's and the world's growing tourism industry.",
     courses: [
@@ -321,14 +321,14 @@ const faculties = [
     name: 'Faculty of Information & Communication Technology',
     icon: '💻',
     image: 'https://images.unsplash.com/photo-1461749280684-dccba630e2f6?w=600&q=80',
-    videoUrl: 'https://www.youtube.com/watch?v=SzJ46YA_RaA',
+    videoUrl: 'https://www.youtube.com/watch?v=djmUYBlbb08',
     description:
       'Drive digital innovation through software, systems and technology. Our ICT programmes prepare graduates to lead in a technology-driven world.',
     courses: [
       {
         name: 'Degree in Software Engineering with Multimedia',
         image: 'https://images.unsplash.com/photo-1515879218367-8466d910aaa4?w=600&q=80',
-        videoUrl: 'https://www.youtube.com/watch?v=SzJ46YA_RaA',
+        videoUrl: 'https://www.youtube.com/watch?v=4hCZVhhdf6E',
         description: 'Build software systems, mobile apps and multimedia solutions. Combine coding skills with creative design for innovative digital products.',
         requirements: [
           'Minimum 4 C grades and 2 D passes',
@@ -340,7 +340,7 @@ const faculties = [
       {
         name: 'Degree in Business Information Technology',
         image: 'https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&q=80',
-        videoUrl: 'https://www.youtube.com/watch?v=SzJ46YA_RaA',
+        videoUrl: 'https://www.youtube.com/watch?v=-Zpu85fWglA',
         description: 'Bridge the gap between business and technology. Learn systems analysis, database management, IT project management and enterprise solutions.',
         requirements: [
           'Minimum 4 C grades and 2 D passes',
@@ -352,7 +352,7 @@ const faculties = [
       {
         name: 'Degree in Information Technology',
         image: 'https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&q=80',
-        videoUrl: 'https://www.youtube.com/watch?v=SzJ46YA_RaA',
+        videoUrl: 'https://www.youtube.com/watch?v=XZrckLYqdys',
         description: 'Study networking, cybersecurity, systems administration and software development. Graduate ready to manage and build modern IT infrastructure.',
         requirements: [
           'Minimum 4 C grades and 2 D passes',
@@ -363,7 +363,7 @@ const faculties = [
       {
         name: 'Diploma in Multimedia and Software Engineering',
         image: 'https://images.unsplash.com/photo-1461749280684-dccba630e2f6?w=600&q=80',
-        videoUrl: 'https://www.youtube.com/watch?v=SzJ46YA_RaA',
+        videoUrl: 'https://www.youtube.com/watch?v=iIxZrYzJJ7I&t=435s',
         description: 'Learn programming, web development, UI/UX design and digital media production. Create powerful software and engaging digital experiences.',
         requirements: [
           'Minimum 3 C grades and 2 D passes',
@@ -376,7 +376,7 @@ const faculties = [
       {
         name: 'Diploma in Business Information Technology',
         image: 'https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&q=80',
-        videoUrl: 'https://www.youtube.com/watch?v=SzJ46YA_RaA',
+        videoUrl: 'https://www.youtube.com/watch?v=-Zpu85fWglA',
         description: 'Develop skills in IT systems, database management and business computing. Ideal for those wanting to apply technology solutions in business environments.',
         requirements: [
           'Minimum 3 C grades and 2 D passes',
@@ -389,7 +389,7 @@ const faculties = [
       {
         name: 'Diploma in Information Technology',
         image: 'https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&q=80',
-        videoUrl: 'https://www.youtube.com/watch?v=SzJ46YA_RaA',
+        videoUrl: 'https://www.youtube.com/watch?v=XZrckLYqdys',
         description: 'Gain foundational skills in networking, hardware, software and IT support. Build a strong base for a career in IT operations and systems management.',
         requirements: [
           'Minimum 3 C grades and 2 D passes',
