@@ -79,7 +79,7 @@ const faculties = [
       {
         name: 'Degree in Professional Communication',
         image: 'https://images.unsplash.com/photo-1557804506-669a67965ba0?w=600&q=80',
-        videoUrl: 'https://www.youtube.com/watch?v=8QP6HpFaISc',
+        videoUrl: 'https://www.youtube.com/watch?v=GrxHWrhEAis',
         description: 'Develop expertise in corporate communication, public relations and media strategy. Learn to manage brand reputation and craft powerful messages for diverse audiences.',
         requirements: [
           'Minimum 4 C grades and 2 D passes',
@@ -90,7 +90,7 @@ const faculties = [
       {
         name: 'Degree in Broadcasting & Journalism',
         image: 'https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=600&q=80',
-        videoUrl: 'https://www.youtube.com/watch?v=8QP6HpFaISc',
+        videoUrl: 'https://www.youtube.com/watch?v=a7Y07B0xqbg',
         description: 'Train in news reporting, investigative journalism, radio and TV broadcasting. Develop your voice and storytelling skills for modern media platforms.',
         requirements: [
           'Minimum 4 C grades and 2 D passes',
@@ -101,7 +101,7 @@ const faculties = [
       {
         name: 'Diploma in Television and Film Production',
         image: 'https://images.unsplash.com/photo-1485846234645-a62644f84728?w=600&q=80',
-        videoUrl: 'https://www.youtube.com/watch?v=8QP6HpFaISc',
+        videoUrl: 'https://www.youtube.com/watch?v=2ns4Avc1b_E',
         description: 'Learn cinematography, directing, scriptwriting, editing and post-production. Create compelling film and television content from concept to screen.',
         requirements: [
           'Minimum 3 C grades and 2 D passes',
@@ -114,7 +114,7 @@ const faculties = [
       {
         name: 'Diploma in Broadcasting (Radio and TV)',
         image: 'https://www.ypccollege.edu.my/wp-content/uploads/2021/03/DIPLOMA-IN-DIGITAL-MEDIA-AND-BROADASTING_WEB-1.jpg',
-        videoUrl: 'https://www.youtube.com/watch?v=8QP6HpFaISc',
+        videoUrl: 'https://www.youtube.com/watch?v=sRJzc0gaBng',
         description: 'Master on-air presentation, audio production, programme scheduling and audience engagement for both radio and television platforms.',
         requirements: [
           'Minimum 3 C grades and 2 D passes',
@@ -126,7 +126,7 @@ const faculties = [
       {
         name: 'Diploma in Public Relations',
         image: 'https://www.1training.org/wp-content/uploads/2021/04/Advanced-Diploma-in-Public-Relations-Level-3.jpg',
-        videoUrl: 'https://www.youtube.com/watch?v=8QP6HpFaISc',
+        videoUrl: 'https://www.youtube.com/watch?v=VejDCJ9_wuk',
         description: 'Learn media relations, event management, crisis communication and brand storytelling. Build skills to represent organisations with confidence and professionalism.',
         requirements: [
           'Minimum 3 C grades and 2 D passes',
@@ -138,7 +138,7 @@ const faculties = [
       {
         name: 'Diploma in Journalism and Media',
         image: 'https://dsj.uti.ac.tz/courses/DIPLOMA_-_BANNER_350.jpg',
-        videoUrl: 'https://www.youtube.com/watch?v=8QP6HpFaISc',
+        videoUrl: 'https://www.youtube.com/watch?v=ACLL384Np4s',
         description: 'Develop investigative, print, online and multimedia journalism skills. Learn to report accurately and ethically in a fast-paced media environment.',
         requirements: [
           'Minimum 3 C grades and 2 D passes',
@@ -187,7 +187,7 @@ const faculties = [
       {
         name: 'Degree in International Business',
         image: 'https://images.unsplash.com/photo-1521791136064-7986c2920216?w=600&q=80',
-        videoUrl: 'https://www.youtube.com/watch?v=0K-r0RMnWjM',
+        videoUrl: 'https://www.youtube.com/watch?v=gnxSv2jjdlA',
         description: 'Gain knowledge in global trade, international marketing, cross-cultural management and business strategy to compete in worldwide markets.',
         requirements: [
           'Minimum 4 C grades',
@@ -199,7 +199,7 @@ const faculties = [
       {
         name: 'Degree in Entrepreneurship',
         image: 'https://images.unsplash.com/photo-1556761175-4b46a572b786?w=600&q=80',
-        videoUrl: 'https://www.youtube.com/watch?v=0K-r0RMnWjM',
+        videoUrl: 'https://www.youtube.com/watch?v=Rz_BDmUEQlo',
         description: 'Learn how to start, manage and scale your own business. Develop innovation, financial planning, marketing and leadership skills for the modern entrepreneur.',
         requirements: [
           'Minimum 4 C grades',
@@ -211,7 +211,7 @@ const faculties = [
       {
         name: 'Degree in Human Resource Management',
         image: 'https://www.business-management-degree.net/wp-content/uploads/2023/01/Best-Online-Associates-in-Human-Resources-featured-image.jpg',
-        videoUrl: 'https://www.youtube.com/watch?v=0K-r0RMnWjM',
+        videoUrl: 'https://www.youtube.com/watch?v=bI9RZjF-538',
         description: 'Study talent acquisition, organisational behaviour, labour law and people management. Prepare for HR leadership roles across all industries.',
         requirements: [
           'Minimum 4 C grades',
@@ -223,7 +223,7 @@ const faculties = [
       {
         name: 'Diploma in Business Management',
         image: 'https://images.unsplash.com/photo-1507679799987-c73779587ccf?w=600&q=80',
-        videoUrl: 'https://www.youtube.com/watch?v=0K-r0RMnWjM',
+        videoUrl: 'https://www.youtube.com/watch?v=UQAtIEmhQ-4',
         description: 'Build a solid foundation in operations, finance, marketing and management. Ideal for those looking to enter the business world or advance in their career.',
         requirements: [
           'Minimum 3 C grades',
@@ -235,7 +235,7 @@ const faculties = [
       {
         name: 'Diploma in Retail Management',
         image: 'https://images.unsplash.com/photo-1555529669-e69e7aa0ba9a?w=600&q=80',
-        videoUrl: 'https://www.youtube.com/watch?v=0K-r0RMnWjM',
+        videoUrl: 'https://www.youtube.com/watch?v=KQfCCM_wQjA',
         description: 'Specialise in retail operations, supply chain, customer experience and merchandising. Graduate ready to manage and grow retail businesses.',
         requirements: [
           'Minimum 3 C grades',
@@ -247,7 +247,7 @@ const faculties = [
       {
         name: 'Diploma in Marketing',
         image: 'https://images.unsplash.com/photo-1533750349088-cd871a92f312?w=600&q=80',
-        videoUrl: 'https://www.youtube.com/watch?v=0K-r0RMnWjM',
+        videoUrl: 'https://www.youtube.com/watch?v=QusJ4fpWQwA',
         description: 'Master brand management, digital marketing, consumer behaviour and market research. Develop creative campaigns that drive business growth.',
         requirements: [
           'Minimum 3 C grades',
@@ -270,7 +270,7 @@ const faculties = [
       {
         name: 'Degree in Tourism Management',
         image: 'https://images.unsplash.com/photo-1476514525535-07fb3b4ae5f1?w=600&q=80',
-        videoUrl: 'https://www.youtube.com/watch?v=h5N_pVvSJ_I',
+        videoUrl: 'https://www.youtube.com/watch?v=i0G6EcmQd_g',
         description: 'Study destination marketing, eco-tourism, travel operations and sustainable tourism. Lead the future of travel and tourism in Africa and beyond.',
         requirements: [
           'Minimum 4 C grades and 2 D passes or better',
@@ -281,7 +281,7 @@ const faculties = [
       {
         name: 'Diploma in Tourism Management',
         image: 'https://images.unsplash.com/photo-1488646953014-85cb44e25828?w=600&q=80',
-        videoUrl: 'https://www.youtube.com/watch?v=h5N_pVvSJ_I',
+        videoUrl: 'https://www.youtube.com/watch?v=MiLpZeldsCE',
         description: 'Gain practical skills in tour operations, customer service, travel planning and tourism marketing for entry-level and mid-level tourism careers.',
         requirements: [
           'Minimum 3 C grades and 2 D passes',
@@ -293,7 +293,7 @@ const faculties = [
       {
         name: 'Diploma in Hotel Management',
         image: 'https://www.ihtsnepal.com/wp-content/uploads/2018/09/dhm-1170x607-1-1024x531.jpg',
-        videoUrl: 'https://www.youtube.com/watch?v=h5N_pVvSJ_I',
+        videoUrl: 'https://www.youtube.com/watch?v=1-Bd0XV_XM8',
         description: 'Learn front office operations, housekeeping, food & beverage service and hotel administration. Prepare for management roles in hotels and resorts.',
         requirements: [
           'Minimum 3 C grades and 2 D passes',
@@ -305,7 +305,7 @@ const faculties = [
       {
         name: 'Diploma in Events Management',
         image: 'https://images.unsplash.com/photo-1511578314322-379afb476865?w=600&q=80',
-        videoUrl: 'https://www.youtube.com/watch?v=h5N_pVvSJ_I',
+        videoUrl: 'https://www.youtube.com/watch?v=t7dm6EVXu4A',
         description: 'Master the art of planning, coordinating and executing events — from corporate conferences to cultural festivals. Build skills in logistics, marketing and client management.',
         requirements: [
           'Minimum 3 C grades and 2 D passes',
